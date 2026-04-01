@@ -49,3 +49,7 @@
     height: 150px;
     border-radius: 10px;
 }
+.mycss-style-sheet{
+    color:"red";
+    backgroud-color:"#ffffff";
+}
